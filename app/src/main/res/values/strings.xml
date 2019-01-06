@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BinarShop</string>
+    <string name="action_delete">Delete</string>
+    <string name="tanggal_masuk">Tanggal masuk:</string>
+    <string name="petugas_pencatat">Petugas pencatat:</string>
+    <string name="nama_barang">Nama barang:</string>
+    <string name="jumlah_barang">Jumlah barang:</string>
+    <string name="nama_pemasok">Nama pemasok:</string>
+    <string name="keterangan_lain">Keterangan lain:</string>
+    <string name="tambah">Tambah</string>
+</resources>
